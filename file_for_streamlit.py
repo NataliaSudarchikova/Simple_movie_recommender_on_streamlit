@@ -7,8 +7,8 @@ N_MOVIES = 10
 
 st.title("Movie Reccomender: item based")
 
-movies = pd.read_csv("C:/Users/m218101/Desktop/WBS_Coding_school/Course/Recommerder_systems/movies/reccomender_on_streamlit/movies.csv")
-ratings = pd.read_csv("C:/Users/m218101/Desktop/WBS_Coding_school/Course/Recommerder_systems/movies/reccomender_on_streamlit/ratings.csv")
+movies = pd.read_csv("movies.csv")
+ratings = pd.read_csv("ratings.csv")
 
 
 def item_based_recom(n,chosen_movie_title):
