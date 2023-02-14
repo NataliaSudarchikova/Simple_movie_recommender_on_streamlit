@@ -1,0 +1,1 @@
+"# Simple_movie_recommender_on_streamlit"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/NataliaSudarchikova/Simple_movie_recommender_on_streamlit.gitgit push -u origin main
